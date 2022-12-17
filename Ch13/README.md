@@ -1,1 +1,1 @@
-# DL-Book-Wiley-2022
+# Chapter 13: Dive into Generative Adversarial Networks

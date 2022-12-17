@@ -1,1 +1,1 @@
-# DL-Book-Wiley-2022
+# Disentangled Representation GANs
