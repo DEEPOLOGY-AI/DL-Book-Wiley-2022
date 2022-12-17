@@ -1,1 +1,1 @@
-# Chapter 1: Advanced Convolutional Neural Network
+# Chapter 7: Advanced Convolutional Neural Network
