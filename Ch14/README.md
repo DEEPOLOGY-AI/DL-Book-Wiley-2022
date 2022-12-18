@@ -1,1 +1,1 @@
-# Disentangled Representation GANs
+# chapter 14: Disentangled Representation GANs
