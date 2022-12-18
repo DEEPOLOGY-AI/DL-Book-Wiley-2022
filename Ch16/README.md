@@ -1,11 +1,12 @@
-#CH 16:Privacy-Preserved Federated Learning
+# CH 16:Privacy-Preserved Federated Learning
+
 ![logo](https://user-images.githubusercontent.com/37029038/192092928-a8781fce-b76b-446b-b8a7-d03e95dbe044.png)
 
 ## [FedML - The Most Popular Federated Learning Library](https://fedml.ai)
 
 
 # Foundations and Trends in Machine Learning
-We are thrilled to share that [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) has been accepted to [FnTML](https://www.nowpublishers.com/MAL) (<b>Foundations and Trends in Machine Learning</b>, the chief editor is [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)).
+
 
 [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
 
