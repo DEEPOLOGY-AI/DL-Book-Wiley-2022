@@ -1,17 +1,8 @@
-
+# Chapter 15: Introducing Federated Learning for Internet of Things (IoT)
 ![logo](https://user-images.githubusercontent.com/37029038/192092928-a8781fce-b76b-446b-b8a7-d03e95dbe044.png)
-
-## [FedML - The Most Popular Federated Learning Library](https://fedml.ai)
-
-# Awesome-Federated-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-A curated list of federated learning publications, re-organized from Arxiv (mostly).
-
-<strong>Last Update: July, 20th, 2021</strong>.	
 
 
 # Foundations and Trends in Machine Learning
-We are thrilled to share that [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977) has been accepted to [FnTML](https://www.nowpublishers.com/MAL) (<b>Foundations and Trends in Machine Learning</b>, the chief editor is [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)).
 
 [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
 
@@ -1370,48 +1361,3 @@ Researcher: Mehdi Bennis, Seong-Lyun Kim
 [Asynchronous Task Allocation for Federated and Parallelized Mobile Edge Learning](https://arxiv.org/pdf/1905.01656.pdf)
 
 [CoLearn: enabling federated learning in MUD-compliant IoT edge networks](CoLearn: enabling federated learning in MUD-compliant IoT edge networks)
-
-
-
-
-## Publications in Top-tier ML/CV/NLP/DM Conference (ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, KDD)
-### ICML
-| Title                                                                    | Team/Authors              | Venue and Year     | Targeting Problem     | Method                |
-|---|---|---|---|---|
-| [Federated Learning with Only Positive Labels](https://arxiv.org/pdf/2004.10342.pdf)                        | Google Research            |   ICML 2020        | label deficiency in multi-class classification    |  regularization |
-| [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](https://arxiv.org/abs/1910.06378)        | EPFL, Google Research      |   ICML 2020        | heterogeneous data (non-I.I.D)    | nonconvex/convex optimization with variance reduction   |
-| [FedBoost: A Communication-Efficient Algorithm for Federated Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/5967-Paper.pdf)    | Google Research, NYU       |   ICML 2020        | communication cost    | ensemble algorithm    |
-| [FetchSGD: Communication-Efficient Federated Learning with Sketching](https://arxiv.org/abs/2007.07682)     | UC Berkeley, JHU, Amazon   |   ICML 2020        | communication cost    | compress model updates with Count Sketch   |
-| [From Local SGD to Local Fixed-Point Methods for Federated Learning](https://arxiv.org/pdf/2004.01442.pdf)  | KAUST                      |   ICML 2020        | communication cost    |  Optimization |
-
-### NeurIPS
-| Title                                                                    | Team/Authors              | Venue and Year     | Targeting Problem     | Method                |
-|---|---|---|---|---|
-| Lower Bounds and Optimal Algorithms for Personalized Federated Learning | KAUST   | NeurIPS 2020        |  non-I.I.D, personalization   |   |
-| Personalized Federated Learning with Moreau Envelopes  | The University of Sydney | NeurIPS 2020        |  non-I.I.D, personalization   |   |
-| Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach | MIT |   NeurIPS 2020        |  non-I.I.D, personalization   |   |
-| Differentially-Private Federated Contextual Bandits                     | MIT            |   NeurIPS 2020        |  Contextual Bandits   |   |
-| Federated Principal Component Analysis                     | Cambridge            |   NeurIPS 2020        |    PCA |   |
-| FedSplit: an algorithmic framework for fast federated optimization                     | UCB            |   NeurIPS 2020        |   Acceleration  |   |
-| Federated Bayesian Optimization via Thompson Sampling | MIT |   NeurIPS 2020        |     |   |
-| Robust Federated Learning: The Case of Affine Distribution Shifts | MIT  | NeurIPS 2020        |   Privacy, Robustness  |   |
-| An Efficient Framework for Clustered Federated Learning | UCB | NeurIPS 2020        |    heterogeneous data (non-I.I.D) |   |
-| Distributionally Robust Federated Averaging | PSU |   NeurIPS 2020        |  Privacy, Robustness   |   |
-| Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge | USC |   NeurIPS 2020        |  Efficient Training of Large DNN at Edge   |   |
-| A Scalable Approach for Privacy-Preserving Collaborative Machine Learning  | USC |   NeurIPS 2020        |  Scalability   |   |
-| Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization | CMU |   NeurIPS 2020        |   local update step heterogeneity  |   |
-| Attack of the Tails: Yes, You Really Can Backdoor Federated Learning | Wiscosin|   NeurIPS 2020        |  Privacy, Robustness   |   |
-| Federated Accelerated Stochastic Gradient Descent | Stanford |   NeurIPS 2020        |  Acceleration   |   |
-| Inverting Gradients - How easy is it to break privacy in federated learning? | University of Siegen   | NeurIPS 2020        |  Privacy, Robustness   |   |
-| Ensemble Distillation for Robust Model Fusion in Federated Learning  | EPFL |   NeurIPS 2020        |   Privacy, Robustness  |   |
-| Optimal Topology Design for Cross-Silo Federated Learning  | Inria | NeurIPS 2020        | Topology Optimization    |   |
-| Distributed Training with Heterogeneous Data: Bridging Median- and Mean-Based Algorithms | University of Minnesota | NeurIPS 2020 | | | 
-| Distributed Distillation for On-Device Learning | Stanford | NeurIPS 2020 | | |
-| Byzantine Resilient Distributed Multi-Task Learning | Vanderbilt University | NeurIPS 2020 | | | 
-| Distributed Newton Can Communicate Less and Resist Byzantine Workers | UCB | NeurIPS 2020 | | |
-| Minibatch vs Local SGD for Heterogeneous Distributed Learning | TTIC | NeurIPS 2020 | | |
-| Election Coding for Distributed Learning: Protecting SignSGD against Byzantine Attacks | | NeurIPS 2020 | | |
-
-(according to https://neurips.cc/Conferences/2020/AcceptedPapersInitial)
-
-Note: most of the accepted publications are preparing the camera ready revision, thus we are not sure the detail of their proposed methods
