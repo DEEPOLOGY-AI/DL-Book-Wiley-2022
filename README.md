@@ -1,4 +1,4 @@
-# Abdel-Basset, M., Moustafa, N. and Hawash, H., 2022. Deep Learning Approaches for Security Threats in IoT Environments. John Wiley & Sons.
+# [Abdel-Basset, M., Moustafa, N. and Hawash, H., 2022. Deep Learning Approaches for Security Threats in IoT Environments. John Wiley & Sons.](https://ieeexplore.ieee.org/book/9965964)
 
 ## Chapter 1: Introducing Deep Learning for IoT Security
 ## Chapter 2 Deep Neural Networks
