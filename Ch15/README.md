@@ -80,16 +80,27 @@
 ## Survey
 
 [Blockchain-Based Federated Learning for Securing Internet of Things: A Comprehensive Survey](https://dl.acm.org/doi/abs/10.1145/3560816)
+
 [Blockchain-enabled Federated Learning: A Survey](https://dl.acm.org/doi/abs/10.1145/3524104)
+
 [Blockchain-empowered Federated Learning: Challenges, Solutions, and Future Directions](https://dl.acm.org/doi/abs/10.1145/3570953)
+
 [Fusion of Federated Learning and Industrial Internet of Things: A survey](https://www.sciencedirect.com/science/article/abs/pii/S1389128622001955)
+
 [Recent Advances on Federated Learning for Cybersecurity and Cybersecurity for Federated Learning for Internet of Things](https://ieeexplore.ieee.org/abstract/document/9709603)
+
 [Federated Learning for Smart Healthcare: A Survey](https://dl.acm.org/doi/abs/10.1145/3501296)
+
 [Survey on federated learning threats: Concepts, taxonomy on attacks and defences, experimental study and challenges](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001439)
+
 [Federated Machine Learning: Survey, Multi-Level Classification, Desirable Criteria and Future Directions in Communication and Networking Systems](https://ieeexplore.ieee.org/document/9352033)
+
 [A Survey on Federated Learning for Resource-Constrained IoT Devices](https://ieeexplore.ieee.org/document/9475501)
+
 [A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond](https://ieeexplore.ieee.org/document/9220780)
+
 [Federated Learning for Internet of Things: Recent Advances, Taxonomy, and Open Challenges](https://ieeexplore.ieee.org/document/9460016)
+
 [Decentral and Incentivized Federated Learning Frameworks: A Systematic Literature Review](https://ieeexplore.ieee.org/document/9997105)
 
 
